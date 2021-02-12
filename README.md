@@ -11,3 +11,10 @@ It is now possible to either put a Attiny85 in the socket found on the shield, o
 If you use [PlatformIO](https://platformio.org/) you can use the supplied config and src to upload a simple firmware that flashes the IND. LED on the shield.
 
 If you don't, please read through the instructions in [DebugWireDebuggerProgrammerShield.md](./DebugWireDebuggerProgrammerShield.md) for details.
+
+## Note
+
+I am a complete beginner at PCB/Schematics design and *cannot* guarantee that this works. It is a work in progress, a hobby project.
+If you do find something odd or plain wrong, feel free to open an issue/contribute and I'll happily try to learn from your wisdom!
+
+
