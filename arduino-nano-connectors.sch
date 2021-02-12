@@ -5,14 +5,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 2
-Title "Arduino Nano Pinout"
+Title "DebugWireDebuggerProgrammer Arduino Nano Shield"
 Date "2021-02-12"
 Rev "1.0"
 Comp ""
-Comment1 "Author: Joost Oostdijk"
-Comment2 ""
+Comment1 "Based on: https://sites.google.com/site/wayneholder/debugwire3"
+Comment2 "Author: Joost Oostdijk"
 Comment3 ""
-Comment4 ""
+Comment4 "joostoostdijk.com"
 $EndDescr
 $Comp
 L Connector_Generic:Conn_01x15 J1

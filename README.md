@@ -6,6 +6,7 @@
 > https://sites.google.com/site/wayneholder/debugwire2
 > https://sites.google.com/site/wayneholder/debugwire3
 
+https://arduino.pinout.guide/attiny_generic_pinout_and_ISP_pins.png
 ## Quick start
 
 1. Make sure your Arduino IDE has support for [programming ATtiny controllers](https://github.com/SpenceKonde/ATTinyCore)

@@ -78,6 +78,7 @@ bom/
 
 # Gerber export output
 out/
+gerbers/
 
 ### macOS ###
 # General
