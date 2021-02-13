@@ -142,7 +142,7 @@ L MCU_Microchip_ATtiny:ATtiny85-20PU U1
 U 1 1 60274CB8
 P 7675 3725
 F 0 "U1" H 7145 3771 50  0000 R CNN
-F 1 "ATtiny85-20PU" H 7145 3680 50  0000 R CNN
+F 1 "ATtiny85" H 7145 3680 50  0000 R CNN
 F 2 "Package_DIP:DIP-8_W7.62mm" H 7675 3725 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2586-avr-8-bit-microcontroller-attiny25-attiny45-attiny85_datasheet.pdf" H 7675 3725 50  0001 C CNN
 	1    7675 3725
@@ -218,7 +218,7 @@ L Jumper:Jumper_2_Open JP1
 U 1 1 60289778
 P 7275 2975
 F 0 "JP1" H 7275 3210 50  0000 C CNN
-F 1 "Jumper_2_Open" H 7275 3119 50  0000 C CNN
+F 1 "jumper" H 7275 3119 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 7275 2975 50  0001 C CNN
 F 3 "~" H 7275 2975 50  0001 C CNN
 	1    7275 2975
@@ -444,7 +444,7 @@ L Connector_Generic:Conn_02x03_Odd_Even J3
 U 1 1 602E3C51
 P 8325 2675
 F 0 "J3" H 8375 2350 50  0000 C CNN
-F 1 "ISCP" H 8375 2441 50  0000 C CNN
+F 1 "ICSP" H 8375 2441 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical" H 8325 2675 50  0001 C CNN
 F 3 "~" H 8325 2675 50  0001 C CNN
 	1    8325 2675
