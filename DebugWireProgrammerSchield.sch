@@ -6,8 +6,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 2
 Title "DebugWireDebuggerProgrammer Arduino Nano Shield"
-Date "2021-02-12"
-Rev "1.0"
+Date "2021-02-13"
+Rev "2.0"
 Comp ""
 Comment1 "Based on: https://sites.google.com/site/wayneholder/debugwire3"
 Comment2 "Author: Joost Oostdijk"
